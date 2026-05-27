@@ -10,3 +10,4 @@ elif valor >30:
 else:
     print("Valor negativo")
 print(f"O valor digitado foi {valor}")
+print ("Teste")
