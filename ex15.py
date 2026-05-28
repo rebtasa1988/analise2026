@@ -5,3 +5,4 @@ elif temperatura <=18:
     print("Está muito frio!")
 else:
     print("A temperatura está agradável!")
+print("Alterado por outra pessoa")
