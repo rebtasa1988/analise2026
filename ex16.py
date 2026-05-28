@@ -11,3 +11,4 @@ else:
     print("Valor negativo")
 print(f"O valor digitado foi {valor}")
 print ("Teste")
+print ("Teste 2")
